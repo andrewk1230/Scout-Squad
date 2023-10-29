@@ -24,10 +24,10 @@
 ![This is an alt text.](https://raw.githubusercontent.com/andrewk1230/Scout-Squad/main/tentBuild.jpg)
 # Starting fire
 ##
-![This is an alt text.](https://raw.githubusercontent.com/andrewk1230/Scout-Squad/main/fireStart.jpg)
+![This is an alt text.](https://raw.githubusercontent.com/andrewk1230/Scout-Squad/main/ending.jpg)
 # Ending page
 ##
-![This is an alt text.](https://raw.githubusercontent.com/andrewk1230/Scout-Squad/main/ending.jpg)
+![This is an alt text.](https://github.com/andrewk1230/Scout-Squad/blob/main/ending.jpg)
 # Public space
 ##
 ![This is an alt text.](https://raw.githubusercontent.com/andrewk1230/Scout-Squad/main/public.jpg)
